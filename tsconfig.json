@@ -5,6 +5,8 @@
     "checkJs": true,                       /* Report errors in .js files. */
     "noEmit": true,                        /* Do not emit outputs. */
     "lib": ["es2017"],
+    "module": "es2022",
+    "target": "es2017",
     "skipLibCheck": true,
 
     /* Strict Type-Checking Options */
